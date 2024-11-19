@@ -24,4 +24,5 @@ My Social Media:
 <ul> <li> <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> <a href="https://www.linkedin.com/in/luan-olegario" target="_blank" title="My LinkedIn">LinkedIn</a> </li> </ul>
 My Stats:
 
-Feel free to customize or enhance this to better showcase your skills and achievements! 😊
+Thank you for visiting my profile. 
+Contact me for any collaboration opportunities or simply to exchange ideas about technology!
