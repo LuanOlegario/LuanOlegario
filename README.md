@@ -1,4 +1,4 @@
-## Hello everyone, welcome to my GitHub 👋 !!!
+## Hi everyone, welcome to my GitHub 👋 !!!
 My name is Luan Olegario, a backend developer passionate about creating efficient and robust solutions for real-world problems. I am a Business Management undergraduate and currently pursuing a degree in Software Engineering.
 
 With over 2 years of experience, I have developed end-to-end integration projects and contributed to the architecture of software solutions, focusing on scalability and performance. Additionally, 
