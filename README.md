@@ -18,8 +18,7 @@ In addition to my professional journey, I am a dedicated husband who values cont
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
-My Social Media:
-<ul> <li> <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> <a href="https://www.linkedin.com/in/luan-olegario" target="_blank" title="My LinkedIn">LinkedIn</a> </li> </ul>
+- 📫 Reach me: luanm.olegario@outlook.com
 
 Thank you for visiting my profile. 
 Contact me for any collaboration opportunities or simply to exchange ideas about technology!
